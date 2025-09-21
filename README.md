@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/78d92a10-a9bb-40c5-8533-91d4534ee0a4) and start prompting.
+Simply visit the (https://dazzling-3d-portfolios-unleashed-ma.vercel.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
